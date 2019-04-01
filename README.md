@@ -2,7 +2,7 @@
 
 [neon](https://github.com/NervanaSystems/neon) is Intel's reference deep learning framework committed to [best performance](https://github.com/soumith/convnet-benchmarks) on all hardware. Designed for ease-of-use and extensibility.
 
-* [Tutorials](http://neon.nervanasys.com/docs/latest/tutorials.html) and [iPython notebooks](https://github.com/NervanaSystems/meetup) to get users started with using neon for deep learning.
+* [Tutorials](http://neon.nervanasys.com/docs/latest/tutorials.html) and iPython notebooks to get users started with using neon for deep learning.
 * Support for commonly used layers: convolution, RNN, LSTM, GRU, BatchNorm, and more.
 * [Model Zoo](https://github.com/NervanaSystems/ModelZoo) contains pre-trained weights and example scripts for start-of-the-art models, including: [VGG](https://github.com/NervanaSystems/ModelZoo/tree/master/ImageClassification/ILSVRC2012/VGG), [Reinforcement learning](https://github.com/NervanaSystems/ModelZoo/tree/master/DeepReinforcement), [Deep Residual Networks](https://github.com/NervanaSystems/ModelZoo/tree/master/SceneClassification/DeepResNet), [Image Captioning](https://github.com/NervanaSystems/ModelZoo/tree/master/ImageCaptioning), [Sentiment analysis](https://github.com/NervanaSystems/ModelZoo/tree/master/NLP/SentimentClassification/IMDB), and [more](http://neon.nervanasys.com/docs/latest/model_zoo.html).
 * Swappable hardware backends: write code once and then deploy on CPUs, GPUs, or Nervana hardware
